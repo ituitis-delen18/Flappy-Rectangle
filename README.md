@@ -1,3 +1,2 @@
 # Flappy-Rectangle
-This game made only for improving myself.\n
-Made With: Pygame/Python
+This game made only for improving myself. And made with python, pygame library.
